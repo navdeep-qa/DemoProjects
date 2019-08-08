@@ -27,4 +27,10 @@ public class MainClass {
 		System.out.println("test2");
 	}
 	
+	@Test
+	void Test3()
+	{
+		System.out.println("test3");
+	}
+	
 }
