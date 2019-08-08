@@ -13,9 +13,6 @@ public class MainClass {
 	@Test
 	void LaunchBrowser()
 	{
-//		System.setProperty("webdriver.chrome.driver", "D:\\chromedriver_win32\\chromedriver.exe");
-//		driver = new ChromeDriver();
-//		driver.get("http://oca-mel-test:8300/");
 		
 		System.out.println("test1");
 		
