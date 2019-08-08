@@ -31,5 +31,9 @@ public class MainClass {
 	{
 		System.out.println("test4");
 	}
-	
+	@Test
+	void Test5()
+	{
+		System.out.println("Test 5 - Added by Brinder");
+	}
 }
