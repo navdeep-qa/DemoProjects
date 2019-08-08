@@ -6,10 +6,6 @@ import org.testng.annotations.Test;
 
 public class MainClass {
 
-	public static WebDriver driver;
-	
-	
-	
 	@Test
 	void LaunchBrowser()
 	{
