@@ -36,4 +36,9 @@ public class MainClass {
 	{
 		System.out.println("Test 5 - Added by Brinder");
 	}
+	@Test
+	void Test6()
+	{
+		System.out.println("Test 6 - Added by Brinder");
+	}
 }
